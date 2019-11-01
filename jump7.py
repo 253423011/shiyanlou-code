@@ -7,4 +7,5 @@ for i in range(1,101):
 	if (i>=70 and i<=79):
 		continue
 	print(i)
+    print(i+1)
 
